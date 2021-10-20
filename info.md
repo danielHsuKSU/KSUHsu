@@ -26,7 +26,7 @@ A.3.5. IP與DNS(網域名稱)
         A.3.5.1. IP協定與IP位址
         A.3.5.2. DNS
 =============================================
-# ISO七層 : [https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B]
+# [ISO七層] : https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
 
 ### 1 實體層
 
