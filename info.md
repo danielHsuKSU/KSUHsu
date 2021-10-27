@@ -55,3 +55,6 @@ A.3.5. IP與DNS(網域名稱)
 ### 7 應用層
 
 #### 應用層（Application Layer）提供為應用軟體而設計的介面，以設定與另一應用軟體之間的通訊。例如：HTTP、HTTPS、FTP、Telnet、SSH、SMTP、POP3等。
+
+--------
+
