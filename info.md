@@ -26,7 +26,7 @@ A.3.5. IP與DNS(網域名稱)
         A.3.5.1. IP協定與IP位址
         A.3.5.2. DNS
 =============================================
-# [ISO七層](https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B) : https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
+# [OSI七層](https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B) : https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
 
 ### 1 實體層
 
@@ -57,4 +57,24 @@ A.3.5. IP與DNS(網域名稱)
 #### 應用層（Application Layer）提供為應用軟體而設計的介面，以設定與另一應用軟體之間的通訊。例如：HTTP、HTTPS、FTP、Telnet、SSH、SMTP、POP3等。
 
 --------
+# [七層舉例](https://www.ithome.com.tw/tech/47085) : https://www.ithome.com.tw/tech/47085
+
+### 1 實體層
+
+#### 網線 網卡 等設備
+
+### 2 資料連結
+
+#### 這組訊號稱為資料訊框（Data Frame）。訊框內包含媒體存取控制（Media Access Control，MAC）位址
+
+### 3 網路層
+
+### 4 傳輸層
+
+### 5 會議層
+
+### 6 表達層
+
+### 7 應用層
+
 
